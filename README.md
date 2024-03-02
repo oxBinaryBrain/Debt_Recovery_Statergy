@@ -48,8 +48,8 @@ python bank_data_analysis.py
 
 ## Contributors
 
-- [Uday G]
-- [Ranganath]
+- Uday G
+- Ranganath
 
 ## License
 
