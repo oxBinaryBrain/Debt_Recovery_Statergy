@@ -29,6 +29,30 @@ git clone https://github.com/yourusername/bank-data-analysis.git
 ```
 
 2. Navigate to the project directory:
-
+```bash
 cd bank-data-analysis
+```
+
+
+3. Run the Python script to perform data analysis:
+```bash
+python bank_data_analysis.py
+```
+
+## Description
+
+- The Python script reads the dataset from `bank_data.csv` using Pandas.
+- It performs various data manipulation, visualization, and statistical analysis tasks, including scatter plots, descriptive statistics, and hypothesis testing.
+- Statistical tests such as the Kruskal-Wallis test and chi-square test are used to assess relationships and differences between variables.
+- Linear regression models are built using the Ordinary Least Squares (OLS) method to analyze the relationship between expected recovery amount, actual recovery amount, and other variables.
+
+## Contributors
+
+- [Your Name]
+- [Other contributors]
+
+## License
+
+This project is licensed under the [license name] License. See the LICENSE.md file for details.
+
 
