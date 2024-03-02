@@ -5,7 +5,7 @@ This project aims to analyze a bank's debt recovery strategies for delinquent ac
 ## Project Structure
 
 - `bank_data.csv`: CSV file containing the dataset.
-- `bank_data_analysis.py`: Python script for data analysis.
+- `Credit_risk_Analysis`: Python script for data analysis.
 - `README.md`: This file providing an overview of the project.
 
 ## Dependencies
@@ -48,11 +48,11 @@ python bank_data_analysis.py
 
 ## Contributors
 
-- [Your Name]
-- [Other contributors]
+- [Uday G]
+- [Ranganath]
 
 ## License
 
-This project is licensed under the [license name] License. See the LICENSE.md file for details.
+This project is licensed under the [MIT] License. See the LICENSE.md file for details.
 
 
