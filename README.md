@@ -25,7 +25,7 @@ pip install pandas matplotlib scipy
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/Credit_risk_Analysis.git
+https://github.com/oxBinaryBrain/Debt_Recovery_Statergy.git
 ```
 Credit_risk_Analysis.ipynb
 2. Navigate to the project directory:
