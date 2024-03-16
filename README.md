@@ -36,7 +36,7 @@ cd Debt_Recovery_Statergy
 
 3. Run the Python script to perform data analysis:
 ```bash
-python bank_data_analysis.py
+python Credit_risk_analysis.py
 ```
 
 ## Description
